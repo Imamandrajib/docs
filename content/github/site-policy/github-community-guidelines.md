@@ -1,4 +1,4 @@
----
+---docs/content/github/site-policy/github-community-guidelines.md
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines
